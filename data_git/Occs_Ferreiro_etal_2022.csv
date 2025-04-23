@@ -1,0 +1,400 @@
+Number;Coleccion;Pais;Provincia;Localidad;FechaColecta;Ano_colecta;Latitud;Longitud;Temporalidad;Origen;BIBLIOGRAFIA
+1;CAMI_01252;AR;Salta; Impenetrable ;2011;2011;-25.2370825;-63.1641654;Actual;Santos 2017;Not published yet
+2;CAMI_01171;AR;Formosa; Impenetrable ;2011-2013;2012;-24.485804;-61.4010755;Actual;Santos 2017;Not published yet
+3;CAMI_01172;AR;Formosa; Impenetrable ;2011-2013;2012;-24.4857389;-61.478905;Actual;Santos 2017;Not published yet
+4;CAMI_01170;AR;Formosa; Impenetrable ;2011-2013;2012;-24.4192544;-61.5331059;Actual;Santos 2017;Not published yet
+5;CAMI_01169;AR;Formosa; Impenetrable ;2011-2013;2012;-24.3862609;-61.4964305;Actual;Santos 2017;Not published yet
+6;CAMI_01129;AR;Formosa; Impenetrable ;2011-2013;2012;-24.286145;-61.8210618;Actual;Santos 2017;Not published yet
+7;CAMI_01207;AR;Formosa; Impenetrable ;2011-2013;2012;-23.5418055;-61.7088663;Actual;Santos 2017;Not published yet
+8;CAMI_01208;AR;Formosa; Impenetrable ;2011-2013;2012;-23.5176757;-62.0784925;Actual;Santos 2017;Not published yet
+9;CAMI_01196;AR;Formosa; Impenetrable ;2011-2013;2012;-23.4508242;-61.9084389;Actual;Santos 2017;Not published yet
+10;CAMI_01197;AR;Formosa; Impenetrable ;2011-2013;2012;-23.4401692;-61.7733852;Actual;Santos 2017;Not published yet
+11;CAMI_01165;AR;Formosa; Impenetrable ;2011-2013;2012;-23.3134334;-61.8670572;Actual;Santos 2017;Not published yet
+12;CAMI_01149;AR;Formosa; Impenetrable ;2011-2013;2012;-23.2888087;-62.2769838;Actual;Santos 2017;Not published yet
+13;CAMI_01168;AR;Formosa; Impenetrable ;2011-2013;2012;-23.2550044;-62.0831981;Actual;Santos 2017;Not published yet
+14;CAMI_01206;AR;Formosa; Impenetrable ;2011-2013;2012;-23.2500001;-61.9500041;Actual;Santos 2017;Not published yet
+15;CAMI_01166;AR;Formosa; Impenetrable ;2011-2013;2012;-23.2133611;-61.7516452;Actual;Santos 2017;Not published yet
+16;CAMI_01167;AR;Formosa; Impenetrable ;2011-2013;2012;-23.2088435;-61.9012148;Actual;Santos 2017;Not published yet
+17;CAMI_01198;AR;Formosa; Impenetrable ;2011-2013;2012;-23.0537319;-62.2839905;Actual;Santos 2017;Not published yet
+18;CAMI_01200;AR;Formosa; Impenetrable ;2011-2013;2012;-22.9756664;-62.2531721;Actual;Santos 2017;Not published yet
+19;CAMI_01199;AR;Formosa; Impenetrable ;2011-2013;2012;-22.9530259;-62.3149709;Actual;Santos 2017;Not published yet
+20;CAMI_01201;AR;Formosa; Impenetrable ;2011-2013;2012;-22.8871;-62.2566257;Actual;Santos 2017;Not published yet
+21;CAMI_01205;AR;Formosa; Impenetrable ;2011-2013;2012;-22.8361084;-62.3348457;Actual;Santos 2017;Not published yet
+22;CAMI_01204;AR;Formosa; Impenetrable ;2011-2013;2012;-22.6706893;-62.2602255;Actual;Santos 2017;Not published yet
+23;CAMI_01203;AR;Formosa; Impenetrable ;2011-2013;2012;-22.666901;-62.2937042;Actual;Santos 2017;Not published yet
+24;CAMI_01202;AR;Formosa; Impenetrable ;2011-2013;2012;-22.6300299;-62.2487194;Actual;Santos 2017;Not published yet
+25;CAMI_01160;AR;Salta; Impenetrable ;2011;2011;-22.5179075;-62.8215399;Actual;Santos 2017;Not published yet
+26;CAMI_01295;AR;Chaco; Impenetrable ;2011;2011;-25.1315074;-62.1881027;Actual;Santos 2017;Not published yet
+27;CAMI_01072;AR;Chaco; Impenetrable ;2011;2011;-25.0179;-62.79129;Actual;Santos 2017;Not published yet
+28;79951;PY;Boqueron;10 KM SOUTH OF FILADELFIA;7/7/1996;1996;-22.446132;-60.027998;Actual;GBIF;
+29;124721;PY;Alto Paraguay;11.8KM BY RD W FORTIN MADREJON;12/8/1976;1976;-20.627827;-59.989078;Actual;GBIF;
+30;20652;PY;Boqueron;15 KILOMETERS S OF DARK HEAD QUARTERS AT TENIENTE ENCISO, ON THE ESTAOCCA LA MADELON;8/6/1983;1983;-21.246111;-61.611383;Actual;VertNet;
+31;MHNG-MAM-1689.061;PY;Boqueron;15 km ouest du Fortin Pratt Gill;26/7/1985;1985;-22.55851;-61.75865;Actual;GBIF;
+32;19818;PY;Boqueron;19 km N of Filadelfia- Estancia Iparoma;29/7/1978;1978;-22.201242;-60.049706;Actual;VertNet;
+33;23719;AR;Chaco;20 km NNW by road and 11 km NE by road Pampa El Mangrullo;15/11/1990;1990;-25.908708;-61.220276;Actual;VertNet;
+34;124720;PY;Alto Paraguay;20.1KM BY RD W FORTIN MADREJON;6/8/1976;1976;-20.585783;-60.065809;Actual;GBIF;
+35;19884;PY;Alto Paraguay;28 km N - 52 km W of Mayor Pablo Lagerenza;9/8/1978;1978;-19.677265;-61.265968;Actual;VertNet;
+36;32623;AR;Catamarca;28.1 km S Casa de Piedra on El Quimilo Rd;1/6/2002;2002;-29.847567;-65.429783;Actual;GBIF;
+37;M-260320;BO;Santa Cruz;29.5 kilometers west of Robore;6/10/1984;1984;-18.183333;-60.016667;Actual;GBIF;
+38;145367;PY;Presidente Hayes;295 km NW (by road) Villa Hayes;1/2/1973;1973;-23.2;-59.18333;Actual;GBIF;
+39;79953;PY;Boqueron;30 KM N MCAL. ESTIGARRIBIA;9/9/1996;1996;-21.749666;-60.575832;Actual;GBIF;
+40;32984;AR;Salta;31 km SSW Dragones along Rio Bermejo;1993;1993;-23.493667;-63.428667;Actual;GBIF;
+41;2045/6303;BO;Chuquisaca;4.5KM by road W of Carandayti;1985;1985;-20.765802;-63.106193;Actual;Anderson 1997;Anderson, 1997
+42;19893;PY;Boqueron;40 km NW of Pratt-Gill AF Base;20/9/1978;1978;-22.384859;-61.776336;Actual;VertNet;
+43;19883;PY;Alto Paraguay;42 km WNW - 11 km N by road of Mayor Pablo Lagerenza;9/7/1978;1978;-19.73937;-61.176719;Actual;VertNet;
+44;145365;PY;Boqueron;474 km NW by road- Villa Hayes;30/7/1973;1973;-22.26667;-60.36667;Actual;GBIF;
+45;;AR;Salta;5 km al W de Jollin;1972-1984;1980;-22.133;-63.4;Actual;Ojeda y Mares 1989;Diaz et al., 2000
+46;17518;PY;Presidente Hayes;5 km NE of Pozo Colorado;14/7/1975;1975;-23.454411;-58.764097;Actual;VertNet;
+47;66494;AR;La Rioja;50km al S de Ulapes Puesto La Suspencion;16/7/1995;1995;-31.96467;-66.209328;Actual;GBIF;
+48;126292;PY;Alto Paraguay;50KM WNW MADREJON,MISION NUEVO TRIBU;8/7/1978;1978;-20.47592;-60.319721;Actual;GBIF;
+49;M-246460;BO;Chuquisaca;56 kilometers by road east of Tiguipa;26/5/1979;1979;-21.06302;-62.787475;Actual;VertNet;
+50;16743;PY;Presidente Hayes;5Km NE of LIne Camp on Rio Verde- Juan de Zalazar;20/9/1973;1973;-23.431754;-58.875478;Actual;VertNet;
+51;20126;BO;Tarija;60km SE de Villa Montes;30/11/1975;1975;-21.539921;-62.971726;Actual;GBIF;
+52;M-246461;BO;Chuquisaca;64 kilometers east of Tiguipa-71 km east of Tiguipa- BanadoYuguapua;25/5/1979;1979;-21.055443;-62.704518;Actual;VertNet;
+53;M-247658;BO;Santa Cruz;7 kilometers east and 3 kilometers north of Ingenio Mora;8/8/1980;1980;-18.441635;-63.132596;Actual;VertNet;
+54;19890;PY;Alto Paraguay;8 km N + 37 km W of Mayor Pablo Lagerenza;9/9/1978;1978;-19.851714;-61.125125;Actual;VertNet;
+55;AMF018;AR;Santiago del Estero;A 20 km de Malbran yendo a Bandera;28/7/2015;2015;-29.203441;-62.370729;Actual;DatabaseAMF;
+56;MA09;AR;San Juan;Agua Cercada;16/9/2011;2011;-30.79398;-67.37068;Actual;This work;
+57;WALLA_02288;BO;Santa Cruz;Aguarati;;;-19.11705358;-62.49254843;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+58;ABBA_01906;AR;Salta;Aguaray;NA;;-22.26666667;-63.73333333;Actual;Santos 2017;XX SAREM Gallino et al.
+59;WALLA_02225;BO;Santa Cruz;Aguas Calientes;;;-18.51145;-59.4435;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+60;;AR;Santiago del Estero;Ahi Veremos;1/7/2017;2017;-25.83654;-63.943278;Actual;This work;
+61;AMF106;AR;San Luis;Alto Pencoso;2/10/2018;2018;-33.414026;-66.880986;Actual;This work;
+62;ABBA_01936;AR;Santiago del Estero;Amama;1984;1984;-27.2;-63.05;Actual;Santos 2017;Wisnivesky-Coli C. et al. 1986. Infeccion por Trypanosoma cruzi en mamiferos silvestres de Sgo. del Estero. II SAREM. CL4.
+63;;BR;Mato Grosso do Sul;Amolar Mountain Range;2015;2015;-18.039748;-57.506924;Actual;Feijo et al, 2015;Porfirio et al, 2014
+64;321017;AR;San Luis;Area Natural Protegida Quebracho de la Legua;17/8/2015;2015;-32.35;-66.916667;Actual;Ecoregistros;
+65;19797;PY;Presidente Hayes;Area of Retiro km 305 on Trans-Chaco highway-Retiro;9/4/1973;1973;-23.327757;-59.110747;Actual;VertNet;
+66;;AR;Jujuy;Arroyo Saladillo;ago-88;1988;-23.69667;-64.395929;Actual;Feijo et al, 2015;Vizcaino,1997
+67;WALLA_02217;BO;Santa Cruz;Ascencion;;;-16.51171;-59.46023;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+68;SJ014;AR;San Juan;Baldes Sur;17/9/2011;2011;-30.64184;-67.411998;Actual;This work;
+69;GIOCI_00092;PY;Alto Paraguay;Base 5 Adrian Jara;2002;2002;-19.55972222;-59.51805556;Actual;This work;Unpublisehd data
+70;WALLA_02219;BO;Santa Cruz;Buena Vista;;;-17.76805;-59.90438;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+71;AMF044;AR;Formosa;Camino en Formosa- cerca de Gral Guemes;31/5/2016;2016;-24.888959;-59.612914;Actual;This work;
+72;AMF048;AR;Formosa;20 km NO de Colonia Union Escuela;1/6/2016;2016;-24.651109;-59.852071;Actual;This work;
+73;AMF038;AR;Chaco;50km en linea recta al NO de Miraflores;29/5/2016;2016;-25.375812;-61.323569;Actual;This work;
+74;GIOCI_00057;PY;PRESIDENTE HAYES;Campo Maria;2001;2001;-22.57166667;-59.34777778;Actual;Santos 2017;Unpublisehd data
+75;GIOCI_00066;PY;Boqueron;Canada El Carmen;2007;2007;-21.64416667;-62.27305556;Actual;Santos 2017;Unpublisehd data
+76;WALLA_02228;BO;Santa Cruz;Candelaria;;;-18.56211;-58.95295;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+77;WALLA_02238;BO;Santa Cruz;Candelaria;;;-16.77996;-58.84322;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+78;65623;AR;Cordoba;Capilla del Monte;19/9/2010;2010;-30.844869;-64.533803;Actual;Ecoregistros;
+79;62848;BO;Tarija;Capirenda 12 mi SW;23/9/1957;1957;-21.240954;-63.108475;Actual;VertNet;Anderson, 1997
+80;27349;BO;Tarija;Capirenda 15 km NE;12/7/1957;1957;-21.038201;-62.922362;Actual;GBIF;Anderson, 1997
+81;79709;PY;Alto Paraguay;CAPITAN PABLO LAGERENZA;11/5/1997;1997;-19.887167;-60.752335;Actual;GBIF;
+82;WALLA_02230;BO;Santa Cruz;Carmen Viejo;;;-18.81451;-58.563;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+83;JEFFT_00019;PY;Boqueron;Casado Cue;2005;2005;-21.52479;-60.40051;Actual;Santos 2017;NA
+84;WALLA_02312;BO;Santa Cruz;Cerro Colorado;;;-19.45474033;-62.36641785;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+85;WALLA_02268;BO;Santa Cruz;Cerro Cortado;;;-19.557036;-62.274294;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+86;BGOM_00153;AR;Chaco;Chaco Forest Fragments Subhumid Chaco                                                                                                                                                          ;2015;2015;-27.09502;-61.40671;Actual;Santos 2017;NA
+87;SP396;AR;Cordoba;Chancani;PREGUNTAR A SEBA;2009;-31.52837;-65.44639;Actual;DatabaseAMF;
+88;;BR;Mato Grosso do Sul;Chapada do Sul- Fazenda Pouso Frio;2004;2004;-18.676595;-52.87158;Actual;Bordigon, 2006;Bordigon et al, 2006
+89;;AR;San Juan;Chucuma;13/6/1986;1986;-31.12619;-67.11361;Actual;This work;
+90;WALLA_02309;BO;Santa Cruz;Concesion Forestal El Encanto;;;-16.93438056;-59.72415278;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+91;PERO_00137;AR;Santiago del Estero;Copo National Park;2007;2007;-25.67402;-61.76582;Actual;Santos 2017;NA
+92;PERO_00144;AR;Santiago del Estero;Copo Provincial Reserve;2007;2007;-25.77392;-62.06383;Actual;Santos 2017;NA
+93;PERO_00164;AR;Santiago del Estero;Copo -Santiago del Estero and Chaco border-;2012;2012;-25.96175;-61.70746;Actual;Santos 2017;NA
+94;WALLA_02214;BO;Tarija;Corbalan;;;-21.65691667;-62.46844444;Actual;Santos 2017;
+95;WALLA_02265;BO;Santa Cruz;Cupesi;;;-18.478333;-62.081667;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+96;7181;BO;Santa Cruz;Curuyuqui;1/6/1990;1990;-18.75;-62.217;Actual;GBIF;Parker 1993
+97;AMF103;AR;San Luis;Desaguadero;1/10/2018;2018;-33.303216;-67.131268;Actual;This work;
+98;79721;PY;Alto Paraguay;DEST.  GABINO MENDOZA;25/5/1997;1997;-20.042334;-61.875832;Actual;GBIF;
+99;PERO_00126;AR;Salta;Divertidos;2012;2012;-22.36642;-63.06039;Actual;Santos 2017;NA
+100;;BR;Mato Grosso;Duas Lagoas Ranch;2015;2015;-16.170278;-58.186667;Actual;Attias et al, 2016;
+101;JEFFT_00020;PY;Boqueron;Eas. en Picco;2005;2005;-21.11112;-60.52543;Actual;Santos 2017;NA
+102;ABA4;AR;Cordoba;El Brete- Cruz del Eje;;;-30.67089;-64.90266;Actual;DatabaseAMF;
+103;VEQU_00078;AR;Formosa;El Cantor;2010;2010;-23.52431;-62.225814;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+104;VEQU_00075;AR;Formosa;El Cantor;2010;2010;-23.4711;-62.31221;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+105;VEQU_00074;AR;Formosa;El Cantor;2010;2010;-23.453647;-62.203932;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+106;VEQU_00084;AR;Formosa;El Cantor;2010;2010;-23.452074;-62.175943;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+107;VEQU_00080;AR;Formosa;El Cantor;2010;2010;-23.429928;-62.21495;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+108;VEQU_00076;AR;Formosa;El Cantor;2010;2010;-23.406973;-62.161287;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+109;VEQU_00081;AR;Formosa;El Cantor;2010;2010;-23.403953;-62.227315;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+110;VEQU_00083;AR;Formosa;El Cantor;2010;2010;-23.40173;-62.28981;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+111;VEQU_00077;AR;Formosa;El Cantor;2010;2010;-23.364221;-62.177132;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+112;VEQU_00082;AR;Formosa;El Cantor;2010;2010;-23.3599;-62.269389;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+113;VEQU_00079;AR;Formosa;El Cantor;2010;2010;-23.352479;-62.244739;Actual;Quiroga 2013;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+114;WALLA_02229;BO;Santa Cruz;El Carmen Rivero Torrez;;;-18.87528;-58.56416;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+115;SP230;AR;La Rioja;El Chulito 2/ 20 km al norte de Chamical R 33 km 301;PREGUNTAR AñO A SEBA;2009;-30.245869;-66.430166;Actual;DatabaseAMF;
+116;MA38;AR;La Rioja;El Palenque- Gral. Juan Facundo Quiroga;17/9/2011;2011;-30.61184;-67.12383;Actual;This work;
+117;;AR;Jujuy;El Palmar;ago-88;1988;-24.085255;-64.59544;Actual;Feijo et al, 2015;Vizcaino,1997
+118;WALLA_02324;BO;Santa Cruz;El Palmar de las Islas;;;-19.41666667;-60.53333333;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+119;PERO_00109;AR;Salta;El Rosado;2012;2012;-22.21361;-62.94944;Actual;Santos 2017;NA
+120;WALLA_02243;BO;Santa Cruz;El Tuna;;;-16.60749;-59.70295;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+121;WALLA_02234;BO;Santa Cruz;Espiritu;;;-16.07739;-60.29074;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+122;WALLA_02313;BO;Santa Cruz;Estacion Isoso;;;-18.41666667;-61.76666667;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+123;GIOCI_00098;PY;PRESIDENTE HAYES;Estancia 11 de junio;2006;2006;-24.51916667;-59.05555556;Actual;Santos 2017;Unpublisehd data
+124;CBF4076;BO;Tarija;Estancia Bolivar;20/8/1991;1991;-21.633333;-62.616667;Actual;This work;
+125;;BO;Tarija;Estancia Caballo Nambia;Wetzel work in Chaco between 1973-1977;;-21.634314;-62.957421;Actual;Feijo et al, 2015;
+126;WALLA_02213;BO;Santa Cruz;Estancia Cotoca;;;-16.88238889;-58.68986111;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+127;;AR;Formosa;Estancia Fortin Quebracho;2000?;2000;-24.666667;-59.233333;Actual;Torres & Jayat, 2010;Alvarez et al, 2005
+128;;AR;Chaco;Estancia Juramento;;;-25.780361;-61.605869;Actual;Torres & Jayat, 2010;Caziani et al, 2003
+129;MHNG-MAM-1689.062;PY;Boqueron;Estancia La Conquista prus de Fortin Pratt Gill;27/7/1985;1985;-22.59547;-61.64046;Actual;GBIF;
+130;WALLA_02220;BO;Santa Cruz;Estancia La India;;;-17.94464;-60.90972;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+131;GIOCI_00099;PY;PRESIDENTE HAYES;Estancia La Manada;2006;2006;-24.37111111;-59.13055556;Actual;Santos 2017;Unpublisehd data
+132;ABA5;AR;Formosa;Estancia La Marcela Depto Pirane;8/13?;;-26.226555;-59.115275;Actual;Wallace et. al. 2013;
+133;WALLA_02269;BO;Santa Cruz;Estancia San Miguelito;;;-17.083333;-61.783333;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+134;GIOCI_00100;PY;PRESIDENTE HAYES;Estancia Sanidad;2005;2005;-23.85333333;-59.83;Actual;Santos 2017;Unpublisehd data
+135;79817;PY;Alto Paraguay;ESTANCIA TRES MARIAS;22/4/1997;1997;-21.203501;-59.504833;Actual;GBIF;
+136;WALLA_02239;BO;Santa Cruz;Estancia Tucavaca;;;-18.19688;-59.44576;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+137;;AR;Formosa;Estero Poi;2019;2019;-25.08579;-58.16152;Actual;This work;
+138;JEFFT_00014;PY;Boqueron;Faro Moro;2005;2005;-21.73453;-60.02192;Actual;Santos 2017;NA
+139;FETO_00019;BR;Mato Grosso do Sul;Fazenda Jofre Velho;30/6/1905;1905;-18.29967651;-57.50856575;Actual;Santos 2017;Unpublished data
+140;NIAT_00001;BR;Mato Grosso do Sul;Fazenda Santa Teresa;2015;2015;-18.301047;-57.509949;Actual;Attias et al, 2017;Attias, N. 2017. Spatial and Temporal Ecology of two armadillo species in Midwestern Brazil. PhD dissertation
+141;164098;PY;Boqueron;Filadelfia- 37 km W- Estancia Toledo--Molineros;24/10/1996;1996;-22.3697;-60.3392;Actual;GBIF;
+142;GIOCI_00059;PY;PRESIDENTE HAYES;Fortin Rojas Silva RAMSAR;2002;2002;-22.62694444;-59.045;Actual;Santos 2017;Unpublisehd data
+143;17520;PY;Boqueron;Fortin Teniente Agripino Enciso;25/7/1975;1975;-21.217939;-61.644001;Actual;VertNet;
+144;384734318;PY;Boqueron;Fortin Toledo - Ruta Transchaco Road;18/8/2014;2014;-22.344551;-60.298996;Actual;GBIF;
+145;10257;AR;Santiago del Estero;Guampacha;1986-1987;1987;-28.03273;-64.783306;Actual;Massoia, 1987;
+146;WALLA_02315;BO;Santa Cruz;Guanaco;;;-20.05083333;-62.43444444;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+147;ABBA_01879;AR;Cordoba;Guanaco Muerto;NA;;-30.4833333;-65.05;Actual;Santos 2017;Abba obs. pers.
+148;WALLA_02280;BO;Santa Cruz;Guirapembi;;;-19.344363;-62.654818;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+149;AMF093;AR;Cordoba;Gutenberg;19/4/2017;2017;-29.738658;-63.573675;Actual;This work;
+150;33;AR;Salta;Hickmann;1972-1984;1980;-22.2;-63.566;Actual;Ojeda y Mares, 1989;
+151;6344;AR;Formosa;Ibarreta;2000?;2000;-25.198101;-59.822497;Actual;Torres & Jayat, 2010;
+152;WALLA_02326;BO;Santa Cruz;Ibasiriri;;;-19.5794154;-62.52801945;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+153;WALLA_02299;BO;Santa Cruz;Ibasiriri;;;-19.545234;-62.559192;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+154;54_164;AR;Formosa;Ingeniero Juarez;13/8/1953;1953;-23.897612;-61.864205;Actual;Torres & Jayat, 2010;
+155;WALLA_02306;BO;Santa Cruz;Isiporenda;;;-19.82718333;-62.71852416;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+156;WALLA_02327;BO;Santa Cruz;Isiporenda;;;-19.765511;-62.650647;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+157;;AR;Jujuy;Islas Grandes;ago-88;1988;-23.948531;-64.296677;Actual;Vizcaino,1997;Vizcaino,1997
+158;WALLA_02293;BO;Santa Cruz;Iyobi;;;-19.39125245;-62.5312836;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+159;WALLA_02314;BO;Santa Cruz;Izozog;;;-19.7225;-62.81694444;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+160;WALLA_02281;BO;Santa Cruz;Izozog;;;-19.29367728;-62.52637783;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+161;AMF105;AR;San Luis;Jarilla;1/10/2018;2018;-33.398397;-67.025849;Actual;This work;
+162;;AR;Salta;Joaquin V Gonzalez;2016;2016;-24.967563;-64.105932;Actual;This work;
+163;WALLA_02329;BO;Santa Cruz;Kapeatindi;;;-19.68546685;-62.62719265;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+164;WALLA_02307;BO;Santa Cruz;Karapari;;;-19.77867591;-62.69838265;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+165;18313;PY;Boqueron;Km 483 on Trans-Chaco highway;17/9/1976;1976;-22.196525;-60.428807;Actual;VertNet;
+166;18311;PY;Boqueron;Km 590 on Trans-Chaco highway- Copagro;25/8/1976;1976;-21.5666667;-61.1;Actual;VertNet;
+167;17608;PY;Boqueron;Km 764 on Trans-Chaco highway;25/7/1975;1975;-20.531963;-62.173039;Actual;VertNet;
+168;WALLA_02303;BO;Santa Cruz;Kopere Brecha;;;-19.69584661;-62.63237017;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+169;WALLA_02305;BO;Santa Cruz;Kopere Guazu;;;-19.70633843;-62.63944457;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+170;WALLA_02302;BO;Santa Cruz;Kopere Loma;;;-19.68857506;-62.62912778;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+171;WALLA_02304;BO;Santa Cruz;Kopere Montenegro;;;-19.69928925;-62.63340713;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+172;WALLA_02331;BO;Santa Cruz;Koropo;;;-19.37601691;-62.53307901;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+173;WALLA_02212;BO;Santa Cruz;Kuarirenda;;;-19.17861111;-62.52583333;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+174;WALLA_02298;BO;Santa Cruz;La Brecha;;;-19.51668;-62.550711;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+175;;AR;Salta;La Estrella;ago-88;1988;-23.821336;-64.069478;Actual;Vizcaino,1997;Vizcaino,1997
+176;WALLA_02264;BO;Santa Cruz;La Madre;;;-18.8825;-62.358611;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+177;WALLA_02319;BO;Santa Cruz;La Madre;;;-18.87416667;-62.35861111;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+178;454;AR;Salta;La Matanza;1972-1984;1980;-23.3;-63.366;Actual;Ojeda y Mares, 1989;
+179;AMF100;AR;Mendoza;La Paz;29/9/2018;2018;-33.358622;-67.460915;Actual;This work;
+180;PERO_00087;AR;Salta;La Puntana;2012;2012;-22.00089;-62.86851;Actual;Santos 2017;NA
+181;;AR;Jujuy;La Quinta;ago-88;1988;-23.790966;-64.56699;Actual;Feijo et al, 2015;Vizcaino,1997
+182;782260503;PY;Presidente Hayes;Laguna Capitan- Chaco Central;18/8/2014;2014;-22.530035;-59.67416;Actual;GBIF;
+183;GIOCI_00055;PY;PRESIDENTE HAYES;Laguna Ganso;2001;2001;-22.57666667;-59.60638889;Actual;Santos 2017;Unpublisehd data
+184;GIOCI_00093;PY;Alto Paraguay;Laguna General Diaz;2001;2001;-21.13158333;-58.55277778;Actual;Santos 2017;Unpublisehd data
+185;GIOCI_00094;PY;Alto Paraguay;Laguna Morocha;2002;2002;-21.07;-58.88444444;Actual;Santos 2017;Unpublisehd data
+186;79879;PY;Alto Paraguay;LAGUNA PLACENTA;8/7/1996;1996;-21.150333;-59.426334;Actual;GBIF;
+187;;AR;Jujuy;Lapachal;ago-88;1988;-23.87661;-64.372083;Actual;Feijo et al, 2015;Vizcaino,1997
+188;;AR;Salta;Las Colmenas;22/6/1905;1905;-23.77891;-63.69133;Actual;Torres & Jayat, 2010;
+189;WALLA_02216;BO;Santa Cruz;Las Petas;;;-16.32514;-58.90077;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+190;ZV-M.355;AR;Cordoba;Las Saladas;;;-30.710706;-63.193911;Actual;Torres & Jayat, 2010;
+191;WALLA_02311;BO;Santa Cruz;Las Trancas;;;-16.51126095;-61.84298864;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+192;WALLA_02223;BO;Santa Cruz;Limoncito;;;-18.24158;-59.86292;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+193;447605;AR;Cordoba;Loma Blanca;2/4/2016;2016;-29.66057;-64.204069;Actual;Ecoregistros;
+194;19820;PY;Boqueron;Loma Plata- Estancia Laguna Pora;18/10/1978;1978;-22.333465;-59.431095;Actual;VertNet;
+195;92664;PY;Boqueron;LOMA PLATA MENNONITE COLONY;9/5/1962;1962;-22.3833;-59.85;Actual;GBIF;
+196;AMF002;AR;Chaco;Los Frentones;16/7/2015;2015;-26.14497;-61.50681;Actual;This work;
+197;AMF001;AR;Chaco;Los Frentones;16/7/2015;2015;-25.92334;-61.53625;Actual;This work;
+198;365940;AR;Santiago del Estero;Los Pirpintos;21/7/2015;2015;-26.132754;-62.060638;Actual;Ecoregistros;
+199;;AR;Formosa;Lote 27 cerca de Las Lomitas;2000?;2000;-24.59366;-60.97425;Actual;Torres & Jayat, 2010;
+200;;AR;Salta;Luna Muerta;1972-1984;1980;-23.033;-63.066;Actual;Ojeda y Mares, 1989;Diaz et al., 2000
+201;GIOCI_00065;PY;Boqueron;Mariscal Estigarribia;2016;2016;-22.05;-60.5;Actual;Santos 2017;Unpublisehd data
+202;ABBA_01877;AR;Cordoba;Media Naranja;NA;;-30.65;-64.95;Actual;Santos 2017;Abba obs. pers.
+203;WALLA_02236;BO;Santa Cruz;Miraflores;;;-17.11214;-60.47147;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+204;AMF024;AR;Chaco;Miraflores;28/5/2016;2016;-25.770944;-60.801889;Actual;This work;
+205;WALLA_02277;BO;Santa Cruz;Misiones;;;-19.817733;-62.551045;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+206;AMF066;AR;Santiago del Estero;Morampa;1/8/2016;2016;-28.204979;-64.061622;Actual;This work;
+207;AMF055;AR;Salta;Morillo;1/6/2016;2016;-23.454743;-62.872588;Actual;This work;
+208;MAUNR_00118;AR;Salta;NA;2010;2010;-24.86039167;-64.28014444;Actual;Santos 2017;Nunez-Regueiro, M. M., L. Branch, R. J. Fletcher, Jr., G. A. Maras, E. Derlindati, and A. Talamo. 2015. Spatial patterns of mammal occurrence in forest strips surrounded by agricultural crops of the Chaco region, Argentina. Biological Conservation, 187 -
+209;MAUNR_00136;AR;Salta;NA;2010;2010;-23.50390278;-63.75203333;Actual;Santos 2017;Nunez-Regueiro, M. M., L. Branch, R. J. Fletcher, Jr., G. A. Maras, E. Derlindati, and A. Talamo. 2015. Spatial patterns of mammal occurrence in forest strips surrounded by agricultural crops of the Chaco region, Argentina. Biological Conservation, 187 -
+210;MAUNR_00130;AR;Salta;NA;2010;2010;-22.240925;-63.32623611;Actual;Santos 2017;Nunez-Regueiro, M. M., L. Branch, R. J. Fletcher, Jr., G. A. Maras, E. Derlindati, and A. Talamo. 2015. Spatial patterns of mammal occurrence in forest strips surrounded by agricultural crops of the Chaco region, Argentina. Biological Conservation, 187 -
+211;JEFFT_00072;PY;Boqueron;NA;2016;2016;-21.6969;-60.13427;Actual;Santos 2017;NA
+212;JEFFT_00063;PY;Alto Paraguay;NA;2016;2016;-19.57057;-58.69;Actual;Santos 2017;NA
+213;GIOCI_00064;PY;Boqueron;Neuland;2016;2016;-22.65;-60.13333333;Actual;Santos 2017;Unpublisehd data
+214;12916;PY;Presidente Hayes;no specific locality;28/9/2003;2003;-23.155051;-58.260061;Actual;GBIF;
+215;GIOCI_00096;PY;Alto Paraguay;Obraje San Carlos;2002;2002;-20.79305556;-57.96388889;Actual;Santos 2017;Unpublisehd data
+216;79910;PY;Alto Paraguay;PALMAR DE LAS ISLAS;6/5/1997;1997;-19.716667;-60.592998;Actual;GBIF;
+217;EDMA_02339;BR;Mato Grosso do Sul;Pantanal da nhecolandia - fazenda experimental do centro de pesquisa agropecuaria do pantanal -CPAP--EMBRAPA;1984-1985;1985;-18.98333333;-56.98333333;Actual;Santos 2017;Alho, 1987
+218;WALLA_02289;BO;Santa Cruz;Paraboca;;;-19.299998;-62.500054;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+219;567316;AR;Chaco;Paraje La Armonia;14/4/2017;2017;-25.178931;-61.094255;Actual;Ecoregistros;
+220;;AR;Chaco;Paraje Lujan;;;-25.190029;-62.274188;Actual;Torres & Jayat, 2010;Quiroga & Boaglio, 2006
+221;GIOCI_00080;PY;Boqueron;Parque Nacional Cerro Cabrera-Timane;2007;2007;-19.62777778;-61.73527778;Actual;Santos 2017;Unpublisehd data
+222;VEQU_00007;AR;Santiago del Estero;Parque Nacional Copo;2009;2009;-25.69884153;-61.9265679;Actual;Santos 2017;Quiroga, V. A. -2013-. Ecologia y Conservacion del yaguarete -Panthera onca- y el puma -Puma concolor- en el Chaco semiarido argentino: su relacion con la disponibilidad de presas y la presencia humana en la region. Tesis Doctoral para la Universidad Nacional de Cordoba. 216 pags.
+223;;AR;Santiago del Estero;Parque Nacional Copo- sector norte;2000?;2000;-25.663028;-61.797667;Actual;Torres & Jayat, 2010;Caziani et al., 2003
+224;;AR;Santiago del Estero;Parque Nacional Copo- sector sur;2000?;2000;-25.973129;-61.939181;Actual;Torres & Jayat, 2010;Caziani et al., 2003
+225;GIOCI_00083;PY;Alto Paraguay;Parque Nacional Defensores del Chaco;1999;1999;-20.33333333;-60.33333333;Actual;Santos 2017;DPNVS -1999- Evaluacion Ecologica Rapida, Isabel Gamarra de Fox en: 1065 Motivos iniciales para proteger el Parque Nacional Defensores del Chaco. Pp. 34-38Apendice 10 pp. 109-111
+226;VEQU_00136;AR;Chaco;Parque Nacional El Impenetrable;2013;2013;-24.99382599;-60.94658646;Actual;Santos 2017;
+227;GIOCI_00078;PY;Boqueron;Parque Nacional Medanos del Chaco;2011;2011;-20.60527778;-62.04916667;Actual;Santos 2017;Unpublisehd data
+228;299569;AR;San Luis;Parque Nacional Sierra de las Quijadas;21/6/2015;2015;-32.568857;-67.044588;Actual;Ecoregistros;
+229;GIOCI_00067;PY;Boqueron;Parque Nacional Teniente Agripino Enciso;2004;2004;-21.21055556;-61.65694444;Actual;Santos 2017;PRODECHACO, 2004
+230;GIOCI_00043;PY;PRESIDENTE HAYES;Parque Nacional Tinfunke;2003;2003;-24.25;-59.5;Actual;Santos 2017;Unpublisehd data
+231;;AR;Chaco;Parque Provincial Pampa del Indio;;;-26.266667;-59.966667;Actual;Torres & Jayat, 2010;Alvarez et al, 2005
+232;JEFFT_00016;PY;Boqueron;Picada ME-TP;2005;2005;-21.41773;-60.55998;Actual;Santos 2017;NA
+233;JEFFT_00017;PY;PRESIDENTE HAYES;Picada M-FO;2005;2005;-21.94287;-58.8543;Actual;Santos 2017;NA
+234;JEFFT_00013;PY;Boqueron;Picada M-UT;2005;2005;-20.96644;-59.81677;Actual;Santos 2017;NA
+235;439640;AR;Chaco;PN El Impenetrable;9/4/2013;2013;-25.166999;-61.082547;Actual;Ecoregistros;
+236;589647;AR;Formosa;PN Rio Pilcomayo;28/6/2017;2017;-25.072246;-58.140986;Actual;Ecoregistros;
+237;;AR;Salta;Pocoy;1972-1984;1980;-22.77455;-63.98443;Actual;Ojeda y Mares, 1989;
+238;;AR;Formosa;Pozo del Tigre;2019;2019;-24.91074;-60.41593;Actual;This work;
+239;WALLA_02336;BO;Santa Cruz;Pozones;;;-17.12289521;-58.53688049;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+240;BGF_00003;AR;Formosa;Private land in Posta Cambio Zalazar locality in  Banado la Estrella Wetland;2016;2016;-24.22092;-60.316856;Actual;Santos 2017;NA
+241;BGV_00002;AR;Chaco;Private lands in Chaco Forest;2013;2013;-25.91497;-61.65608;Actual;Santos 2017;NA
+242;JEFFT_00045;PY;Boqueron;Puente riacho laguna negra- Ruta9 km 470 aprox.;2004;2004;-22.3487;-60.24701;Actual;Santos 2017;NA
+243;MA43;AR;San Juan;Puesto 1;18/9/2011;2011;-30.80677;-67.31273;Actual;This work;
+244;;AR;Jujuy;Puesto Nuevo;ago-88;1988;-23.898091;-64.266274;Actual;Feijo et al, 2015;Vizcaino,1997
+245;22317;BO;Santa Cruz;Puesto Perforacion;1/6/1990;1990;-19.917;-62.567;Actual;GBIF;Parker 1993
+246;WALLA_02226;BO;Santa Cruz;Quitunuquina;;;-18.44708;-59.43832;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+247;WALLA_02218;BO;Santa Cruz;Quituquina;;;-17.66262;-60.71927;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+248;SP216;AR;La Rioja;R 79 Km 265 Chamical;PREGUNTAR AñO A SEBA;;-30.147096;-66.169348;Actual;DatabaseAMF;
+249;WALLA_02242;BO;Santa Cruz;Ramada Quemada;;;-16.59863;-60.85286;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+250;MNK-3212;BO;Santa Cruz;Rancho Chico;25/7/1996;1996;-20.117453;-62.688876;Actual;This work;
+251;GIOCI_00044;PY;Boqueron;Rancho K;2004;2004;-22.10361111;-59.75888889;Actual;Santos 2017;Unpublisehd data
+252;WALLA_02296;BO;Santa Cruz;Rancho Nuevo;;;-19.425504;-62.563245;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+253;WALLA_02295;BO;Santa Cruz;Rancho Viejo;;;-19.433922;-62.527525;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+254;;BO;Santa Cruz;Ravelo;2001;2001;-19.29533;-60.6205;Actual;Maffei,2002;
+255;;AR;Jujuy;Real de los Toros;ago-88;1988;-24.004722;-64.331056;Actual;Feijo et al, 2015;Vizcaino,1997
+256;PERO_00104;AR;Salta;Reloj;2012;2012;-22.16389;-63.08;Actual;Santos 2017;NA
+257;;AR;Chaco;Reserva Aborigen;;;-24.850431;-62.014353;Actual;Torres & Jayat, 2010;Quiroga y Boaglio, 2006
+258;22308-xx;AR;Formosa;Reserva Ecologica El Bagual;15/12/2004;2004;-26.307822;-58.801345;Actual;GBIF;
+259;;AR;Formosa;Reserva Nacional Formosa;Por los autores y el nombre del libro;;-24.316667;-61.716667;Actual;Torres & Jayat, 2010;Heinonen Fortabat y Chebez 1997
+260;318964;AR;San Luis;Reserva Natural Estricta Quebrada de las Higueritas- Lujan;30/6/2012;2012;-32.39567;-65.918938;Actual;Ecoregistros;
+261;443627;AR;San Luis;Reserva Privada Punta del Agua (Lujan);14/6/2016;2016;-32.355127;-65.969399;Actual;Ecoregistros;
+262;;AR;Cordoba;Reserva Provincial Chancani;;;-31.358653;-65.470615;Actual;Torres & Jayat, 2010;
+263;;AR;Santiago del Estero;Reserva Provincial Copo;2000?;2000;-25.870083;-62.194361;Actual;Torres & Jayat, 2010;Caziani et al., 2003
+264;;AR;Chaco;Reserva Provincial Loro Hablador;;;-25.423928;-61.788688;Actual;Torres & Jayat, 2010;Moschione y Bishels 2004
+265;PERO_00193;AR;Salta;Rivadavia;2017;2017;-24.41465;-62.48819;Actual;Santos 2017;NA
+266;PERO_00160;AR;Santiago del Estero;RN16 -Pampa de los Guanacos-;2013;2013;-26.21906;-61.8647;Actual;Santos 2017;NA
+267;PERO_00208;AR;Salta;RN34 -Viergilio Tedin-;2017;2017;-25.04081;-64.9841;Actual;Santos 2017;NA
+268;79911;PY;Alto Paraguay;ROAD TO FORTiN LAGERENZA-I;28/5/1997;1997;-20.074833;-61.493999;Actual;GBIF;
+269;79913;PY;Alto Paraguay;ROAD TO PUERTO CASADO;24/2/1996;1996;-22.33333;-57.916672;Actual;GBIF;
+270;WALLA_02325;BO;Santa Cruz;Robore;;;-18.46972222;-60.53944444;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+271;;AR;San Luis;Ruta provincial 23- entre Santa Rosa de Conlara y Santa Rita;9/6/2015;2015;-32.112244;-65.261976;Actual;GBIF;
+272;SJ020;AR;San Juan;San Agustin;19/9/2011;2011;-30.629633;-67.473675;Actual;This work;
+273;ABBA_01878;AR;Cordoba;San Antonio;NA;;-30.4;-65.09;Actual;Santos 2017;Abba obs. pers.
+274;WALLA_02235;BO;Santa Cruz;San Antonio del Tajibo;;;-16.76608;-61.0992;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+275;WALLA_02335;BO;Santa Cruz;San Lorenzo;;;-16.7;-61.86666667;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+276;WALLA_02221;BO;Santa Cruz;San Lorenzo de Tucavaca;;;-18.28235;-59.48851;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+277;WALLA_02237;BO;Santa Cruz;San Rafael;;;-16.78843;-60.47432;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+278;WALLA_02291;BO;Santa Cruz;San Silvestre;;;-19.18077137;-62.53049384;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+279;WALLA_02227;BO;Santa Cruz;Santa Ana;;;-18.64491;-58.77473;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+280;WALLA_02241;BO;Santa Cruz;Santa Ana de Velasco;;;-16.54216;-60.61127;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+281;;BR;Mato Grosso;Santa Fe;;;-16.1472;-58.4961;Actual;Santos 2017;
+282;PERO_00110;AR;Salta;Santa Maria ;2012;2012;-22.15861;-62.84917;Actual;Santos 2017;NA
+283;WALLA_02232;BO;Santa Cruz;Santa Rosa de la Mina;;;-16.40976;-60.79008;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+284;WALLA_02233;BO;Santa Cruz;Santa Teresa;;;-16.49835;-61.02121;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+285;WALLA_02240;BO;Santa Cruz;Santa Teresita;;;-17.96309;-60.38762;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+286;PERO_00121;AR;Salta;Santa Victoria;2012;2012;-22.33612;-62.81307;Actual;Santos 2017;NA
+287;WALLA_02222;BO;Santa Cruz;Santiago de Chiquitos;;;-18.31917;-59.4924;Actual;Wallace et. al. 2013;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+288;23718;AR;Santiago del Estero;Santo Domingo;10/11/1990;1990;-26.19907;-63.772226;Actual;GBIF;
+289;41961;AR;Cordoba;Cerca del pueblo Las Penas;18/6/2012;2012;-30.511511;-63.884876;Actual;Ecoregistros;
+290;EDMA_02340;BR;Mato Grosso do Sul;Serra da bodoquena;24/6/1905;1905;-20.77201248;-56.78895455;Actual;Santos 2017;Caceres, 2007
+291;UCONN20005;BR;Mato Grosso do Sul;Serra do amolar - borda oeste do pantanal;28/1/1978;1978;-17.750166;-57.61669;Actual;VertNet;Schaller, 1983
+292;MASAN_00004;AR;San Luis;Sierra de las Quijadas National Park;2015;2015;-32.293;-66.5851;Actual;Santos 2017;Unpublished data
+293;WALLA_02251;BO;Santa Cruz;sin localidad;;;-18.316667;-60.033333;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+294;WALLA_02250;BO;Santa Cruz;sin localidad;;;-18.133333;-63.2;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+295;WALLA_02231;BO;Santa Cruz;Tacuaral;;;-19.02333;-58.16594;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+296;WALLA_02297;BO;Santa Cruz;Tamachindi;;;-19.478931;-62.550664;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+297;MNKH4798;BO;Santa Cruz;Tierras Nuevas;18/7/1996;1996;-19.731667;-62.813417;Actual;This work;
+298;AMF016;AR;Santiago del Estero;Tiun Punco;22/7/2015;2015;-28.00258;-63.20827;Actual;DatabaseAMF;
+299;WALLA_02224;BO;Santa Cruz;Tobite;;;-18.06064;-59.9086;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+300;WALLA_02337;BO;Santa Cruz;Tobite;;;-18.03191944;-59.91724444;Actual;Santos 2017;Wallace R.B., H.E. Lopez-Strauss, N. Mercado & Z.R. Porcel. 2013. Base de datos sobre la distribucion de los mamiferos medianos y grandes de Bolivia. DVD Interactivo. Wildlife Conservation Society, La Paz, Bolivia
+301;291935.7302;AR;Salta;Tonono;1972-1984;1984;-22.397541;-63.484039;Actual;Ojeda y Mares, 1989;
+302;;BO;Santa Cruz;Tucavaca;2001;2001;-18.51617;-60.81033;Actual;Maffei,2002;
+303;;AR;Cordoba;Villa Candelaria;2000?;2000;-29.864355;-63.355626;Actual;Torres & Jayat, 2010;Kufner et al. 2005
+304;;AR;Tucuman;Villa Chicligasta;1980?;1980;-27.466;-65.116;Actual;Mares et al, 1996;
+305;24601;AR;Santiago del Estero;Villa La Punta;may-94;1994;-28.370212;-64.792924;Actual;GBIF;
+306;PERO_00098;AR;Salta;Virgen del Carmen;2012;2012;-22.11139;-63.01754;Actual;Santos 2017;NA
+307;;AR;Salta;Yacimiento Tonono;1972-1984;1984;-22.4;-63.4833;Actual;Ojeda y Mares, 1989;Diaz et al., 2000
+308;WALLA_02211;BO;Tarija;Yacuiba;;;-22.001206;-63.688845;Actual;Santos 2017;
+309;MNKH4799;BO;Santa Cruz;Yapiroa;16/8/1996;1996;-19.6107;-62.484923;Actual;Santos 2017;
+310;;AR;Buenos Aires;Adjacent to the Rio Colorado;1879;1879;-39.2666;-63.3333;Historico;Doering et al., 1881.;Abba & Vizcaino, 2011
+311;36_602;AR;Salta;Agua Linda;1930;1930;-23.276163;-63.285283;Historico;GBIF;
+312;;AR;Buenos Aires;Bahia Blanca;1928;1928;-38.7166;-62.2833;Historico;Yepes, 1928;Abba & Vizcaino, 2011
+313;;AR;Buenos Aires;Bahia Blanca;1828;1828;-38.7166;-62.2833;Historico;dOrbigny, 1836;Garrod, 1878
+314;;BR;Mato Grosso;Caicara- Campo do Marco- Mouth of Rio Jauru;1825;1825;-16.363147;-57.811425;Historico;Feijo et al, 2015;Sanborn, 1930
+315;;AR;Buenos Aires;Carmen de Patagones;1895;1895;-40.77546;-63.00285;Historico;Holmberg, 1895;Garrod, 1878
+316;24632;AR;Catamarca;Chumbicha;;;-28.872313;-66.254294;Historico;GBIF;
+317;28355;BR;Mato Grosso;Descalvado (=Descalvados Ranch);4/8/1924;1924;-16.75;-57.7;Historico;GBIF;Sanborn, 1930
+318;172749;AR;La Rioja;Desiderio Tello 20 Km S 100 Mi E Of San Juan;1910;1910;-31.457291;-66.219388;Historico;VertNet;
+319;36_259;AR;Salta;Dragones;1930;1930;-23.223655;-63.337796;Historico;Torres & Jayat, 2010;
+320;42_98;AR;Santiago del Estero;El Cabure;;;-26.012058;-62.341699;Historico;GBIF;
+321;3819;AR;Formosa;El Colorado;;;-26.303475;-59.365384;Historico;Torres & Jayat, 2010;
+322;54405;PY;Boqueron;Fortin Guachalla R Pilcomayo;1/8/1945;1945;-22.45;-62.333333;Historico;GBIF;
+323;42-50.;AR;Formosa;Fortin Nuevo Pilcomayo;1942;1942;-23.869449;-60.87844;Historico;GBIF;
+324;36_798;AR;Santiago del Estero;Herrera;1920-1940;1930;-28.482604;-63.069439;Historico;GBIF;
+325;150;AR;Santa Fe;Km 442 San Bernardo;22/11/1948;1948;-28.08333;-61.55;Historico;GBIF;
+326;8894;AR;Santiago del Estero;La Breita;;;-28.017363;-64.766366;Historico;Torres & Jayat, 2010;
+327;30_395;AR;Salta;La Represa;1/9/1930;1930;-25.516973;-64.657432;Historico;GBIF;
+328;29_857;AR;Formosa;Las Lomitas;1/9/1929;1929;-24.705342;-60.593913;Historico;GBIF;
+329;M-41598;AR;Tucuman;Los Sarmientos;26/5/1916;1916;-27.417659;-65.694405;Historico;VertNet;
+330;26_7;AR;Buenos Aires;Mayor Buratovich;9507;1900;-39.259825;-62.616645;Historico;MACN;
+331;25289;AR;Chaco;Mision Nueva Pompeya;;;-24.939097;-61.493755;Historico;GBIF;
+332;10434;AR;Santiago del Estero;Monte Pampa de Villa La Punta;;;-28.349987;-64.783352;Historico;Torres & Jayat, 2010;
+333;;AR;Buenos Aires;Naposta;1828;1828;-38.43955;-62.24475;Historico;dOrbigny, 1836;Abba & Vizcaino, 2011
+334;25_175;AR;San Luis;Nogoli;dic-24;1924;-32.917724;-66.324636;Historico;GBIF;
+335;30_14;AR;Chaco;Pampa del Indio;1/1/1930;1930;-26.015028;-59.954041;Historico;Torres & Jayat, 2010;
+336;28_180;AR;La Rioja;Patquia;jul-28;1928;-30.044712;-66.879552;Historico;GBIF;
+337;31_189;AR;Jujuy;Perico;1931;1931;-24.382118;-65.116164;Historico;GBIF;
+338;40_33;AR;Chaco;Presidencia de la Plaza;;;-27.002002;-59.843352;Historico;GBIF;
+339;29_908;AR;Chaco;Presidencia Roca;1/12/1929;1929;-26.138212;-59.602959;Historico;GBIF;
+340;29_910;AR;Chaco;Presidencia Roque Saenz Pena;1/12/1929;1929;-27.071966;-60.475787;Historico;GBIF;
+341;54353;PY;Alto Paraguay;Puerto Casado 30 km W on RR;7/6/1945;1945;-22.356182;-58.208908;Historico;GBIF;
+342;USNM 236356;PY;Presidente Hayes;Puerto Pinasco;;;-22.62766;-57.918351;Historico;Gardner, 2008;
+343;236356;PY;Presidente Hayes;Puerto Pinasco 110 Km W;23/9/1920;1920;-22.712908;-58.903337;Historico;VertNet;Sanborn, 1930
+344;33_146;AR;Santiago del Estero;Quimili;Hasta 1980 (porque Marini fallece en 1984 a los 82 anos);1930;-27.644355;-62.412643;Historico;GBIF;
+345;ABBA_01874;AR;Chaco;Resistencia;NA;;-27.45;-58.98333333;Historico;Santos 2017;Yepes 1944 Sobre cien localidades RevistaArgentina de Zoogeografia 4-1-2-:59-71.
+346;s/ n�mero;AR;Santiago del Estero;Retiro;;;-27.068546;-64.462443;Historico;Torres & Jayat, 2010;
+347;24602;AR;Formosa;Riacho Pilaga 15 Km al O. de Palo Santo;;;-25.31563;-59.466855;Historico;GBIF;
+348;;AR;Buenos Aires;Rio Quequen Salado, Tres Arroyos;1857;1857;-38.4166;-60.75;Historico;Deschamps y Tonni, 2007;Abba & Vizcaino, 2011
+349;;AR;Buenos Aires;Rio Sauce Grande 30km E Naposta Bahia Blanca;1828;1828;-38.4333;-61.6833;Historico;dOrbigny, 1836;Abba & Vizcaino, 2011
+350;37_45;AR;Salta;Rivadavia;1930;1930;-24.184273;-62.886524;Historico;GBIF;
+351;32_134;AR;Salta;Rosario de la Frontera;14/7/1932;1932;-25.795455;-64.966056;Historico;GBIF;
+352;;AR;Tucuman;San Miguel de Tucuman;;;-26.853751;-65.193392;Historico;Feijo et al, 2015;Sanborn, 1930
+353;41_399;AR;Jujuy;San Pedro;;;-24.23122;-64.872462;Historico;GBIF;
+354;;BO;Santa Cruz;Santa Cruz de la Sierra;1847;1847;-17.770481;-63.241653;Historico;Feijo et al, 2015;Sanborn, 1930
+355;10428;AR;Santiago del Estero;Santa Rosa;;;-29.195156;-63.977217;Historico;Torres & Jayat, 2010;
+356;187-31;AR;Salta;Tabacal;1931;1931;-23.268447;-64.251912;Historico;GBIF;
+357;40_44;AR;Santiago del Estero;Tacanitas;;;-28.622708;-62.605054;Historico;GBIF;
+358;;BO;Tarija;Tarija;1900;1900;-21.532147;-64.716477;Historico;Feijo et al, 2015;Sanborn, 1930
+359;;AR;Santiago del Estero;Villa La Punta;;;-28.367578;-64.78793;Historico;Torres & Jayat, 2010;
+360;;AR;Buenos Aires;Villarino;1928;1928;-38.8333;-62.9;Historico;Yepes, 1928;Abba & Vizcaino, 2011
+361;;AR;Buenos Aires;Canada de Rocha;Aceramico (3-1.5 kya);;-34.29306;-58.875;Holoceno;Vizcaino, 1995;Ameghino 1880
+362;;AR;Buenos Aires;Cortaderas;Ceramico (1.5-0.5 kya);;-38.3208;-59.663;Holoceno;Vizcaino y Bargo, 1993;Pollas, 1983
+363;;AR;Buenos Aires;Fortin Necochea;Tiempos historicos;;-37.3969;-61.1375;Holoceno;"Crivelli-Montero, 1987-1988; Pardiñas, 1991";
+364;;AR;Buenos Aires;Fuerte Lavalle o Salquilco;;;-37.0166;-61.0833;Holoceno;"Doering et al., 1881; Zeballos, 1881";
+365;;AR;Santa Fe;Guardia de la esquina;"segunda mitad del siglo XVIII y la primera mitad del siglo XIX (Rivas, 1984; Battcock, 2009)";;-33.09911;-61.70293;Holoceno;Loponte y Acosta, 2012;
+366;;AR;Buenos Aires;Hunter;1990 mas-menos 40 yBP;;-34.23829;-60.50825;Holoceno;Loponte y Acosta, 2012;
+367;47_123;AR;Formosa;Ingeniero Juarez;10/8/1947;1947;-23.897612;-61.864205;Holoceno;Torres & Jayat, 2010;
+368;;AR;Buenos Aires;La Moderna sitio 1;6550 mas-menos 160 kya;;-37.13444;-60.07639;Holoceno;"Tonni, 1990; Politis, 1984";Politis 1984, 1985, 1986(pero las muestras se revisaron en el trabajo de vizcaino 1995)
+369;;AR;Buenos Aires;San Martin 1;;;-38.1666;-63;Holoceno;Vizcaino et al., 1995;
+370;;AR;Buenos Aires;Sitio Alfar;5700 yBP;;-38.09694;-57.55583;Holoceno;"Bonomo y Leon, 2010; Soibelzon y Leon, 2017";
+371;;;;Alberdi;;;-31.4427;-64.2013;Pleistoceno;Soibelzon,2019;
+372;;;;Arrecifes;;;-34.0708;-60.0746;Pleistoceno;Soibelzon,2019;
+373;;;;Arroyo de Frias;;;-33.075;-60.5574;Pleistoceno;Soibelzon,2019;
+374;;;;Bahia Blanca;;;-38.6962;-62.3405;Pleistoceno;Soibelzon,2019;
+375;;AR;Buenos Aires;Bajo San Jose;Early bonaerian age;;-38.48635;-61.78406;Pleistoceno;Deschamps, 2005;
+376;PDBD  191127;AR;Buenos Aires;Cantera Nicolas Vignona 3;;;-34.9133;-58.6953;Pleistoceno;Iacona, 2013;
+377;;;;Cauce del Rio de La Plata;;;-34.5082;-58.4743;Pleistoceno;Soibelzon,2019;
+378;;;;Centinela del Mar;;;-38.4342;-58.2282;Pleistoceno;Soibelzon,2019;
+379;;;;Chapadmalal;;;-38.1799;-57.6499;Pleistoceno;Soibelzon,2019;
+380;;;;Coronel Dorrego ;;;-38.7483;-60.6033;Pleistoceno;Soibelzon,2019;
+381;;;;Costa Bonita;;;-38.5637;-58.6343;Pleistoceno;Soibelzon,2019;
+382;;;;Gonzalez Chaves (Juarez);;;-37.6794;-59.7903;Pleistoceno;Soibelzon,2019;
+383;PDBD  197918 ;AR;Cordoba;Isla Verde;Formacion la INVERVADA;;-33.2386;-62.4228;Pleistoceno;Cruz, 2013;
+384;MACN 1479, 2339;AR;Buenos Aires;La Plata;Ensenadense(1.94 a 0.4 Mya);;-34.9205;-57.95357;Pleistoceno;Soibelzon, 2010;
+385;PDBD  191130;AR;Cordoba;Lagunilla del Plata;;;-31.045;-62.5597;Pleistoceno;Luna y Prieto 2013;
+386;MACN 980, 981, 5515;AR;Capital Federal;Las Toscas del Rio de la Plata;Ensenadense(1.94 a 0.4 Mya);;-34.51886;-58.46639;Pleistoceno;Soibelzon, 2010;
+387;;;;Lujan;;;-34.5608;-59.0872;Pleistoceno;Soibelzon,2019;
+388;;;;Marcos Paz;;;-34.782004;-58.837463;Pleistoceno;Soibelzon,2019;
+389;PDBD  71324;BO;Chuquisaca;Naupua;Contexto de Humedad??;;-20.8667;-63.0667;Pleistoceno;Hoffstetter. 1968;
+390;MLP 91-IV-25-185, 91-IV-25-42, 97-II-1-42;AR;Buenos Aires;Necochea;Ensenadense(1.94 a 0.4 Mya);;-38.5545;-58.73961;Pleistoceno;Soibelzon, 2010;
+391;;;;Punta Hermengo;;;-38.2877;-57.8505;Pleistoceno;Soibelzon,2019;
+392;;;;Rio Parana;;;-33.1267;-60.5089;Pleistoceno;Soibelzon,2019;
+393;;;;San Cayetano;;;-38.3395;-59.6159;Pleistoceno;Soibelzon,2019;
+394;;;;santa Clara;;;-37.837573;-57.505273;Pleistoceno;Soibelzon,2019;
+395;PDBD  191153;AR;Santiago del Estero;Termas de Rio Hondo;;;-27.4833;-64.8667;Pleistoceno;Gaudioso, 2016;
+396;MLP 06-II-2-18;AR;Buenos Aires;Mar del Sur;Ensenadense(1.94 a 0.4 Mya);;-38.34104;-57.99492;Pleistoceno;Soibelzon, 2010;
+397;MACN 13016;AR;Buenos Aires;Miramar;Ensenadense(1.94 a 0.4 Mya);;-38.27032;-57.83945;Pleistoceno;Soibelzon, 2010;
+398;PDBD 71314;AR;Buenos Aires;Monte Hermoso;Lujanian;;-38.9897;-61.3417;Pleistoceno;Aramayo, 1985;
+399;;AR;Buenos Aires;San Pedro;Lujanense;;-33.6735;-59.66277;Pleistoceno;Soibelzon, 2013;
