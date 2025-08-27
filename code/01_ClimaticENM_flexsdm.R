@@ -32,7 +32,7 @@ French_guiana <- ne_countries(scale = 10,
 Sudam <- st_union(Sudam_raw, French_guiana)
 
 # Load Chaco region by Morrone 2022.
-Chaco_biome <- st_read("C:/Capas_GIS/Bioregiones/BioRegionesNeotrop_Morrone2022/Geographic_vector_all/NeotropicMap_Geo.shp") |> 
+Chaco_biome <- st_read("C:/Varios/Capas_GIS/Bioregiones/BioRegionesNeotrop_Morrone2022/Geographic_vector_all/NeotropicMap_Geo.shp") |> 
   filter(Provincias == "Chaco province")
 qtm(Chaco_biome)
 
@@ -48,8 +48,7 @@ bb_sf <- st_sfc(st_polygon(list(matrix(c(bb[1], bb[2],
                                                     bb[1], bb[2]), 
                                                   ncol = 2, byrow = TRUE))))
 
-mapa_base <- tm_shape(Sudam, bbox = bb) + tm_polygons(col = "lightgray") +
-  tmap_options(check.and.fix = TRUE)
+mapa_base <- tm_shape(Sudam, bbox = bb) + tm_polygons(col = "lightgray") 
 mapa_base
 
 
@@ -89,7 +88,7 @@ write.csv(Occs_Toly_mat,
 # We obtained the calibration/background area using the flexsdm package
 
 #Previous to obtain the calibration area we should load the Current climatic data
-path_CurrentBios <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Current_2.1/CHELSA_Bioclim",
+path_CurrentBios <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Current_2.1/CHELSA_Bioclim",
                                pattern = "*.tif$",full.names = TRUE)
 CurrentBios <- rast(path_CurrentBios) |> 
   subset(c(1:9,12:17)) |> 
@@ -196,7 +195,7 @@ qtm(Sudam_Proj)
 # Future scenarios: SSP 1-2.6, SSP 3-7.0, and SSP 5-8.5
 # GCMs: GFDL-ESM4, IPSL-CM6A-LR, MPI-ESM1-2-HR, MRI-ESM2-0, UKESM1-0-LL
 
-# Current -----------------------------------------------------------------
+## Current -----------------------------------------------------------------
 
 CurrentBios_proj <- CurrentBios |> 
   subset(c("Bio_01", "Bio_04", "Bio_12", "Bio_14")) |> 
@@ -205,7 +204,7 @@ CurrentBios_proj <- CurrentBios |>
 
 
 ## GDFL_126 ----------------------------------------------------------------
-path_GDFL_126 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/GFDL-ESM4_ssp126/",
+path_GDFL_126 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/GFDL-ESM4_ssp126/",
                             pattern = "*.tif$",full.names = TRUE)
 GDFL_126 <- rast(path_GDFL_126)
 names(GDFL_126) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -218,7 +217,7 @@ Proj_GDFL_126 <- GDFL_126 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## GDFL_370 ----------------------------------------------------------------
-path_GDFL_370 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/GFDL-ESM4_ssp370/",
+path_GDFL_370 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/GFDL-ESM4_ssp370/",
                             pattern = "*.tif$",full.names = TRUE)
 GDFL_370 <- rast(path_GDFL_370)
 names(GDFL_370) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -232,7 +231,7 @@ Proj_GDFL_370 <- GDFL_370 |>
 # plot(Proj_GDFL_370)
 
 ## GDFL_585 ----------------------------------------------------------------
-path_GDFL_585 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/GFDL-ESM4_ssp585/",
+path_GDFL_585 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/GFDL-ESM4_ssp585/",
                             pattern = "*.tif$",full.names = TRUE)
 GDFL_585 <- rast(path_GDFL_585)
 names(GDFL_585) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -247,7 +246,7 @@ Proj_GDFL_585 <- GDFL_585 |>
 
 
 ## IPSL_126 ----------------------------------------------------------------
-path_IPSL_126 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/IPSL-CM6A-LR_ssp126/",
+path_IPSL_126 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/IPSL-CM6A-LR_ssp126/",
                             pattern = "*.tif$",full.names = TRUE)
 IPSL_126 <- rast(path_IPSL_126)
 names(IPSL_126) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -260,7 +259,7 @@ Proj_IPSL_126 <- IPSL_126 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## IPSL_370 ----------------------------------------------------------------
-path_IPSL_370 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/IPSL-CM6A-LR_ssp370/",
+path_IPSL_370 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/IPSL-CM6A-LR_ssp370/",
                             pattern = "*.tif$",full.names = TRUE)
 IPSL_370 <- rast(path_IPSL_370)
 names(IPSL_370) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -273,7 +272,7 @@ Proj_IPSL_370 <- IPSL_370 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## IPSL_585 ----------------------------------------------------------------
-path_IPSL_585 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/IPSL-CM6A-LR_ssp585/",
+path_IPSL_585 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/IPSL-CM6A-LR_ssp585/",
                             pattern = "*.tif$",full.names = TRUE)
 IPSL_585 <- rast(path_IPSL_585)
 names(IPSL_585) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -286,7 +285,7 @@ Proj_IPSL_585 <- IPSL_585 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## MPI_126 ----------------------------------------------------------------
-path_MPI_126 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MPI-ESM1-2-HR_ssp126/",
+path_MPI_126 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MPI-ESM1-2-HR_ssp126/",
                            pattern = "*.tif$",full.names = TRUE)
 MPI_126 <- rast(path_MPI_126)
 names(MPI_126) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -299,7 +298,7 @@ Proj_MPI_126 <- MPI_126 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## MPI_370 ----------------------------------------------------------------
-path_MPI_370 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MPI-ESM1-2-HR_ssp370/",
+path_MPI_370 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MPI-ESM1-2-HR_ssp370/",
                            pattern = "*.tif$",full.names = TRUE)
 MPI_370 <- rast(path_MPI_370)
 names(MPI_370) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -312,7 +311,7 @@ Proj_MPI_370 <- MPI_370 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## MPI_585 ----------------------------------------------------------------
-path_MPI_585 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MPI-ESM1-2-HR_ssp585/",
+path_MPI_585 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MPI-ESM1-2-HR_ssp585/",
                            pattern = "*.tif$",full.names = TRUE)
 MPI_585 <- rast(path_MPI_585)
 names(MPI_585) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -325,7 +324,7 @@ Proj_MPI_585 <- MPI_585 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## MRI_126 ----------------------------------------------------------------
-path_MRI_126 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MRI-ESM2-0_ssp126/",
+path_MRI_126 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MRI-ESM2-0_ssp126/",
                            pattern = "*.tif$",full.names = TRUE)
 MRI_126 <- rast(path_MRI_126)
 names(MRI_126) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -338,7 +337,7 @@ Proj_MRI_126 <- MRI_126 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## MRI_370 ----------------------------------------------------------------
-path_MRI_370 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MRI-ESM2-0_ssp370/",
+path_MRI_370 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MRI-ESM2-0_ssp370/",
                            pattern = "*.tif$",full.names = TRUE)
 MRI_370 <- rast(path_MRI_370)
 names(MRI_370) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -351,7 +350,7 @@ Proj_MRI_370 <- MRI_370 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## MRI_585 ----------------------------------------------------------------
-path_MRI_585 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MRI-ESM2-0_ssp585/",
+path_MRI_585 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/MRI-ESM2-0_ssp585/",
                            pattern = "*.tif$",full.names = TRUE)
 MRI_585 <- rast(path_MRI_585)
 names(MRI_585) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -364,7 +363,7 @@ Proj_MRI_585 <- MRI_585 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## UKESM1_126 ----------------------------------------------------------------
-path_UKESM1_126 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/UKESM1-0-LL_ssp126/",
+path_UKESM1_126 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/UKESM1-0-LL_ssp126/",
                               pattern = "*.tif$",full.names = TRUE)
 UKESM1_126 <- rast(path_UKESM1_126)
 names(UKESM1_126) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -377,7 +376,7 @@ Proj_UKESM1_126 <- UKESM1_126 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## UKESM1_370 ----------------------------------------------------------------
-path_UKESM1_370 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/UKESM1-0-LL_ssp370/",
+path_UKESM1_370 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/UKESM1-0-LL_ssp370/",
                               pattern = "*.tif$",full.names = TRUE)
 UKESM1_370 <- rast(path_UKESM1_370)
 names(UKESM1_370) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -390,7 +389,7 @@ Proj_UKESM1_370 <- UKESM1_370 |>
   terra::mask(Area_Proj_Toly_mat)
 
 ## UKESM1_585 ----------------------------------------------------------------
-path_UKESM1_585 <- list.files(path = "C:/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/UKESM1-0-LL_ssp585/",
+path_UKESM1_585 <- list.files(path = "C:/Varios/Capas_GIS/ClimVars/CHELSA/Future_2.1/2071_2100/UKESM1-0-LL_ssp585/",
                               pattern = "*.tif$",full.names = TRUE)
 UKESM1_585 <- rast(path_UKESM1_585)
 names(UKESM1_585) <- c("Bio_01", "Bio_10", "Bio_11", "Bio_12", "Bio_13", 
@@ -584,7 +583,7 @@ model_metrics_paper_table
 gtsave(model_metrics_paper_table,
        "plots/model_metrics.docx")
 
-# 9. Geographic projection --------------------------------------------------
+# 9. Geographic projection -----------------------------------------------------
 # 9.1. Current --------------------------------------------------------------
 SDM_Current <- sdm_predict(
   models = t_max,
@@ -939,6 +938,149 @@ Inset_map_SD
 
 
 tmap_save(Inset_map_ENS, "plots/flexsdm/Inset_map_ENS.pdf")
-
 tmap_save(Inset_map_SD, "plots/flexsdm/Inset_map_SD.pdf")
+
+
+# 11. MESS analysis ------------------------------------------------------------
+
+# Streamlined MESS calculation following Elith et al. 2010
+library(dismo)
+library(raster)
+
+# Convert projection SpatRaster to RasterStack
+projection_stack <- stack(CurrentBios_proj)
+
+# Extract reference values from training area
+reference_values <- values(Predictor_Bios_Uncorr)
+reference_values <- reference_values[complete.cases(reference_values), ]
+reference_df <- as.data.frame(reference_values)
+
+cat("Reference samples:", nrow(reference_df), "| Variables:", ncol(reference_df), "\n")
+
+# Calculate MESS
+cat("Calculating MESS...\n")
+mess_current <- mess(x = projection_stack, v = reference_df, full = F)
+
+mess_current_terra <- rast(mess_current)
+mess_current_terra <- ifel(is.infinite(mess_current_terra), NA, mess_current_terra)
+
+plot(mess_current_terra)
+
+
+# Save raster with mess
+writeRaster(mess_current_terra,
+            "01_ClimaticENM/MESS_Current.tif", overwrite = TRUE)
+
+# Plot MESS map
+map_MESS_Current <- tm_shape(Area_Proj_Toly_mat_sf) + 
+  tm_polygons(col = "lightgray") +
+  tm_shape(mess_current_terra) + 
+  tm_raster(col.scale = tm_scale_continuous(values = "PRGn",  # Colorblind-safe Purple-Green
+                                            midpoint = 0),
+            col.legend = tm_legend(title = "MESS", title.size = 0.7,
+                                   text.size = 0.7, bg.color = "white", 
+                                   position = tm_pos_in("right", "bottom"),
+                                   frame = TRUE)) +
+  tm_shape(Sudam_Proj) + 
+  tm_borders() +
+  tm_shape(Chaco_biome) + 
+  tm_borders(col = "black", lwd = 2) +
+  tm_title("Current")
+  
+map_MESS_Current
+
+tmap_save(map_MESS_Current,
+          "01_ClimaticENM/plots/map_MESS_Current.pdf",
+          dpi = 300)
+
+# Function to calculate MESS and create maps
+calculate_mess_map <- function(projection_data, scenario_name, title_name) {
+  
+  # Convert projection SpatRaster to RasterStack
+  projection_stack <- stack(projection_data)
+  
+  # Calculate MESS
+  cat("Calculating MESS for", scenario_name, "...\n")
+  mess_raster <- mess(x = projection_stack, v = reference_df, full = FALSE) |>
+    rast() |>
+    (\(x) ifel(is.infinite(x), NA, x))()
+  
+  # Save raster
+  writeRaster(mess_raster,
+              paste0("01_ClimaticENM/MESS_", scenario_name, ".tif"), 
+              overwrite = TRUE)
+  
+  # Create map
+  mess_map <- tm_shape(Area_Proj_Toly_mat_sf) + 
+    tm_polygons(col = "lightgray") +
+    tm_shape(mess_raster) + 
+    tm_raster(col.scale = tm_scale_continuous(values = "PRGn",
+                                              midpoint = 0),
+              col.legend = tm_legend(title = "MESS", title.size = 0.7,
+                                     text.size = 0.7, bg.color = "white", 
+                                     position = tm_pos_in("right", "bottom"),
+                                     frame = TRUE)) +
+    tm_shape(Sudam_Proj) + tm_borders() +
+    tm_shape(Chaco_biome) + tm_borders(col = "black", lwd = 2) +
+    tm_title(title_name)
+  
+  # Save map
+  tmap_save(mess_map,
+            paste0("01_ClimaticENM/plots/map_MESS_", scenario_name, ".pdf"),
+            dpi = 300)
+  
+  return(mess_map)
+}
+
+# Prepare reference data (only once)
+reference_values <- values(Predictor_Bios_Uncorr)
+reference_values <- reference_values[complete.cases(reference_values), ]
+reference_df <- as.data.frame(reference_values)
+cat("Reference samples:", nrow(reference_df), "| Variables:", ncol(reference_df), "\n")
+
+# Define all scenarios
+scenarios <- list(
+  # GFDL scenarios
+  list(data = Proj_GDFL_126, name = "GFDL_126", title = "GFDL SSP1-2.6"),
+  list(data = Proj_GDFL_370, name = "GFDL_370", title = "GFDL SSP3-7.0"),
+  list(data = Proj_GDFL_585, name = "GFDL_585", title = "GFDL SSP5-8.5"),
+  
+  # IPSL scenarios
+  list(data = Proj_IPSL_126, name = "IPSL_126", title = "IPSL SSP1-2.6"),
+  list(data = Proj_IPSL_370, name = "IPSL_370", title = "IPSL SSP3-7.0"),
+  list(data = Proj_IPSL_585, name = "IPSL_585", title = "IPSL SSP5-8.5"),
+  
+  # MPI scenarios
+  list(data = Proj_MPI_126, name = "MPI_126", title = "MPI SSP1-2.6"),
+  list(data = Proj_MPI_370, name = "MPI_370", title = "MPI SSP3-7.0"),
+  list(data = Proj_MPI_585, name = "MPI_585", title = "MPI SSP5-8.5"),
+  
+  # MRI scenarios
+  list(data = Proj_MRI_126, name = "MRI_126", title = "MRI SSP1-2.6"),
+  list(data = Proj_MRI_370, name = "MRI_370", title = "MRI SSP3-7.0"),
+  list(data = Proj_MRI_585, name = "MRI_585", title = "MRI SSP5-8.5"),
+  
+  # UKESM1 scenarios
+  list(data = Proj_UKESM1_126, name = "UKESM1_126", title = "UKESM1 SSP1-2.6"),
+  list(data = Proj_UKESM1_370, name = "UKESM1_370", title = "UKESM1 SSP3-7.0"),
+  list(data = Proj_UKESM1_585, name = "UKESM1_585", title = "UKESM1 SSP5-8.5")
+)
+
+# Calculate MESS for all scenarios
+mess_maps <- list()
+
+for (i in seq_along(scenarios)) {
+  scenario <- scenarios[[i]]
+  mess_maps[[scenario$name]] <- calculate_mess_map(
+    projection_data = scenario$data,
+    scenario_name = scenario$name,
+    title_name = scenario$title
+  )
+}
+
+cat("MESS analysis completed for all", length(scenarios), "scenarios!\n")
+
+# Optional: Display a specific map
+# mess_maps$GFDL_126  # Example to display GFDL SSP1-2.6 map
+
 

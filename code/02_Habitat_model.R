@@ -33,7 +33,7 @@ French_guiana <- ne_countries(scale = 10,
 Sudam <- st_union(Sudam_raw, French_guiana)
 
 # Load Chaco region by Morrone 2022.
-Chaco_biome <- st_read("C:/Capas_GIS/Bioregiones/BioRegionesNeotrop_Morrone2022/Geographic_vector_all/NeotropicMap_Geo.shp") |> 
+Chaco_biome <- st_read("C:/Varios/Capas_GIS/Bioregiones/BioRegionesNeotrop_Morrone2022/Geographic_vector_all/NeotropicMap_Geo.shp") |> 
   filter(Provincias == "Chaco province") |> 
   st_make_valid()
 
@@ -54,8 +54,7 @@ bb_sf <- st_sfc(st_polygon(list(matrix(c(bb[1], bb[2],
                                          bb[1], bb[2]), 
                                        ncol = 2, byrow = TRUE))))
 
-mapa_base <- tm_shape(Sudam, bbox = bb) + tm_polygons(col = "lightgray") +
-  tmap_options(check.and.fix = TRUE)
+mapa_base <- tm_shape(Sudam, bbox = bb) + tm_polygons(col = "lightgray") 
 mapa_base
 
 
@@ -547,41 +546,52 @@ final_map[habitat_gain] <- 1   # Habitat gain coded as 1
 writeRaster(final_map,
             "02_Habitat_loss/habitat_change.tif")
 
+final_map <- rast("02_Habitat_loss/habitat_change.tif")
+
+# First, reclassify 0 to NA (unsuitable)
 final_map2 <- final_map |> 
   classify(rcl = matrix(c(0, NA), ncol = 2, byrow = TRUE))
-qtm(final_map2)
 
-# Define the color palette for the three categories
-change_colors <- c("Habitat Loss" = "#E41A1C",    # Red for Habitat Loss
-                   "Habitat Gain" = "blue",    # Blue for Habitat Gain
-                   "Stable Suitable" = "chartreuse3") # Dark Green for Stable Suitable
+# Define the color palette using the actual raster values as names
+# Opcion 1
+change_colors <- c("-1" = "#E69F00",  # Orange (Loss)
+                   "1" = "#0072B2",   # Deep Blue (Gain)
+                   "2" = "#009E73")    # Green (Stable))
 
-# Assign labels for the categories after reclassification
-category_labels <- c("Habitat Loss", "Habitat Gain", "Stable Suitable")
+# Opcion 2
+# change_colors <- c("-1" = "#CC79A7",  # Pink/Red (Loss - more distinct from blue)
+#                    "1" = "#56B4E9",   # Blue (Gain)
+#                    "2" = "#009E73")   # Green (Stable))
 
-# Plot the habitat change map after reclassification
+
+# Opcion 3
+# change_colors <- c("-1" = "#D55E00",    # Red for Habitat Loss
+#                    "1" = "#56B4E9",     # Blue for Habitat Gain
+#                    "2" = "#009E73")     # Dark Green for Stable Suitable
+
+
+# Define labels that correspond to these values
+category_labels <- c("-1" = "Habitat Loss", 
+                     "1" = "Habitat Gain", 
+                     "2" = "Stable Suitable")
+
+# Plot the habitat change map
 mapa_habitat_change <- tm_shape(Chaco_biome) + 
   tm_polygons(col = "lightgray") + 
-  
   tm_shape(final_map2) + 
   tm_raster(style = "cat", 
             palette = change_colors, 
-            labels = category_labels, 
+            labels = category_labels,
             title = "Habitat Change (1985-2015)") +
-  
   tm_shape(Sudam_Proj) + tm_borders() +
   tm_shape(Chaco_biome) + tm_borders(col = "black", lwd = 2) +
-  
   tm_layout(title = "",
             legend.outside = TRUE,
             frame = FALSE)
 
-# Show the updated map
 mapa_habitat_change
 
 # Save the figure
 tmap_save(mapa_habitat_change,
           "plots/HabitatChange.pdf",
           dpi = 300)
-
-
